@@ -1,0 +1,9 @@
+<configs>
+	<!-- Battery acid recipe -->
+	<append xpath="/recipes">
+		<recipe name="resourceAcid" count="1" craft_time="30" craft_area="chemistryStation" tags="chemStationCrafting">
+			<ingredient name="drinkJarEmpty" count="1"/>
+			<ingredient name="carBattery" count="1"/>
+		</recipe>
+	</append>
+</configs>

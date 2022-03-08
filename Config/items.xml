@@ -1,0 +1,4 @@
+<configs>
+	<append xpath="/items/item[@name='resourceAcid']/property[@name='Group']/@value">,Chemicals,CFChemicals</append>
+</configs>
+<!--Fix to add recipie to chem bench listing via the forum @Enios-->

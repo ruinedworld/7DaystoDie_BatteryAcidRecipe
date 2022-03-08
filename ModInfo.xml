@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Battery Acid" />
+		<Description value="Extract battery acid in the chem station." />
+		<Author value="Ruinedworld" />
+		<Version value="1.1" />
+		
+	</ModInfo>
+</xml>
